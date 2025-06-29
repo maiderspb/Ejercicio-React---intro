@@ -68,4 +68,3 @@ class HeaderClass extends Component {
 }
 
 export default HeaderClass;
-

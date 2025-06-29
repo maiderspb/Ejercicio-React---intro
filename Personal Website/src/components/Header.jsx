@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-     <header className="bg-blue-700 text-white text-center p-6 shadow-lg">
+    <header className="bg-blue-700 text-white text-center p-6 shadow-lg">
       <h1 className="text-3xl font-bold">My Personal Website</h1>
       <h2 className="text-xl mt-2">Hi! I'm Maider 👋</h2>
       <p className="mt-2">

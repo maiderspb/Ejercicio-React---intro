@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="p-6 max-w-4xl mx-auto space-y-6 text-gray-800">    
+    <main className="p-6 max-w-4xl mx-auto space-y-6 text-gray-800">
       <section>
         <h2 className="text-2xl font-bold text-blue-700">
           Tecnologías y Contenidos Aprendidos
